@@ -23,3 +23,7 @@ Objective:
 Understand the Dataset & cleanup (if required).
 Build classification models to predict the various categories of BMI.
 Compare the evaluation metrics of various classification algorithms.
+
+
+data : 
+https://www.kaggle.com/yasserh/bmidataset
